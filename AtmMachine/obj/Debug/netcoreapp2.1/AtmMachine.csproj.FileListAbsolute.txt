@@ -1,0 +1,14 @@
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\bin\Debug\netcoreapp2.1\AtmMachine.deps.json
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\bin\Debug\netcoreapp2.1\AtmMachine.runtimeconfig.json
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\bin\Debug\netcoreapp2.1\AtmMachine.runtimeconfig.dev.json
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\bin\Debug\netcoreapp2.1\AtmMachine.dll
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\bin\Debug\netcoreapp2.1\AtmMachine.pdb
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.csprojAssemblyReference.cache
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.RazorAssemblyInfo.cache
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.RazorAssemblyInfo.cs
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.AssemblyInfoInputs.cache
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.AssemblyInfo.cs
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.RazorTargetAssemblyInfo.cache
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.dll
+C:\Users\Alireza\Documents\Visual Studio 2017\Projects\AtmMachine\AtmMachine\obj\Debug\netcoreapp2.1\AtmMachine.pdb
